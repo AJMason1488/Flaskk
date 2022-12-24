@@ -12,7 +12,7 @@ The application contains filters that were implemented through SQLite queries so
 
 The application can be visited here:
 
-[https://sampleclothing.herokuapp.com/](https://sampleclothing.herokuapp.com/)
+([http://burovalexsey.pythonanywhere.com/])
 
 
 ## Installation
@@ -47,7 +47,7 @@ flask run
 ```
 
 
-## Deploying on Heroku
+## www.pythonanywhere.com
 
 The entry point to the application is in wsgi.py file
 
